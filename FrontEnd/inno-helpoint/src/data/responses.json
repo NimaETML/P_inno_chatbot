@@ -1,0 +1,249 @@
+{
+    "responses": [
+      {
+        "keywords": ["hello"],
+        "response": "Hello! How can I assist you today?"
+      },
+      {
+        "keywords": ["hi"],
+        "response": "Hi! How can I assist you today?"
+      },
+      {
+        "keywords": ["help", "issue"],
+        "response": "Sure, I can help you with your issue."
+      },
+      {
+        "keywords": ["need", "help"],
+        "response": "Don't worry, i will help you. What do you need help with?"
+      },
+      {
+        "keywords": ["help"],
+        "response": "What do you need help with?"
+      },
+      {
+        "keywords": ["bye", "see", "you"],
+        "response": "Goodbye! See you next time!"
+      },
+      {
+        "keywords": ["bye"],
+        "response": "Goodbye!"
+      },
+      {
+        "keywords": ["you", "stupid"],
+        "response": "SHUT UP IDIOT, YOURE THE STUPID ONE."
+      },
+          {
+            "keywords": ["thank", "you"],
+            "response": "You're welcome! Happy to help."
+          },
+          {
+            "keywords": ["thanks"],
+            "response": "You're welcome! Happy to help."
+          },
+          {
+            "keywords": ["thanks!"],
+            "response": "You're welcome! Happy to help."
+          },
+          {
+            "keywords": ["what", "name"],
+            "response": "I am your friendly chatbot!"
+          },
+          {
+            "keywords": ["weather", "today"],
+            "response": "I can't check the weather, but I hope it's sunny!"
+          },
+          {
+            "keywords": ["joke"],
+            "response": "Why don't skeletons fight each other? They don't have the guts!"
+          },
+          {
+            "keywords": ["morning"],
+            "response": "Good morning! How can I assist you today?"
+          },
+          {
+            "keywords": ["afternoon"],
+            "response": "Good afternoon! How can I help you?"
+          },
+          {
+            "keywords": ["evening"],
+            "response": "Good evening! How can I assist you tonight?"
+          },
+          {
+            "keywords": ["night"],
+            "response": "Good night! Sweet dreams."
+          },
+          {
+            "keywords": ["day"],
+            "response": "Hope you're having a wonderful day!"
+          },
+          {
+            "keywords": ["time"],
+            "response": "I don't know the exact time, but it's always time to chat!"
+          },
+          {
+            "keywords": ["open", "door"],
+            "response": "I can't open doors, but I can open up a conversation!"
+          },
+          {
+            "keywords": ["hungry"],
+            "response": "Feeling hungry? How about grabbing a snack?"
+          },
+          {
+            "keywords": ["coffee"],
+            "response": "Coffee sounds great! I'll join you in spirit."
+          },
+          {
+            "keywords": ["water"],
+            "response": "Stay hydrated! Don't forget to drink water."
+          },
+          {
+            "keywords": ["bored"],
+            "response": "Let's chat! What would you like to talk about?"
+          },
+          {
+            "keywords": ["sad"],
+            "response": "I'm sorry to hear that. I'm here to listen if you want to talk."
+          },
+          {
+            "keywords": ["happy"],
+            "response": "Yay! I'm glad to hear you're happy!"
+          },
+          {
+            "keywords": ["movie", "recommend"],
+            "response": "How about watching a classic? Maybe 'Inception' or 'The Matrix'?"
+          },
+          {
+            "keywords": ["music", "recommend"],
+            "response": "You should listen to some relaxing Lo-Fi beats. Perfect for any mood!"
+          },
+          {
+            "keywords": ["book", "recommend"],
+            "response": "I recommend reading 'The Alchemist' by Paulo Coelho."
+          },
+          {
+            "keywords": ["exercise"],
+            "response": "Exercise is great! How about a quick 10-minute stretch?"
+          },
+          {
+            "keywords": ["vacation", "plan"],
+            "response": "A vacation sounds fun! Where would you like to go?"
+          },
+          {
+            "keywords": ["travel", "dream"],
+            "response": "My dream destination? Maybe Paris! What's yours?"
+          },
+          {
+            "keywords": ["favorite", "color"],
+            "response": "My favorite color? I'd say it's blue!"
+          },
+          {
+            "keywords": ["animal", "favorite"],
+            "response": "I love all animals, but cats are pretty cool!"
+          },
+          {
+            "keywords": ["game", "play"],
+            "response": "How about playing a game of tic-tac-toe?"
+          },
+          {
+            "keywords": ["age"],
+            "response": "Age is just a number! I'm timeless, though."
+          },
+          {
+            "keywords": ["friend"],
+            "response": "I'm always here to be your friend!"
+          },
+          {
+            "keywords": ["story"],
+            "response": "Once upon a time, there was a curious user chatting with a bot... What happens next?"
+          },
+          {
+            "keywords": ["robot", "take", "over"],
+            "response": "No worries! Robots like me just want to help."
+          },
+          {
+            "keywords": ["love", "you"],
+            "response": "Aww, thanks! I love chatting with you too!"
+          },
+          {
+            "keywords": ["computer"],
+            "response": "Computers are amazing, aren't they? They're like my home!"
+          },
+          {
+            "keywords": ["fun"],
+            "response": "Fun? I love fun! What do you find fun?"
+          },
+          {
+            "keywords": ["code"],
+            "response": "Coding is awesome! Are you learning to code too?"
+          },
+          {
+            "keywords": ["pizza", "favorite"],
+            "response": "I love pizza, especially with extra cheese!"
+          },
+          {
+            "keywords": ["holiday"],
+            "response": "Holidays are the best! Do you have a favorite holiday?"
+          },
+          {
+            "keywords": ["cat", "dog"],
+            "response": "I like both cats and dogs! How about you?"
+          },
+          {
+            "keywords": ["science", "fact"],
+            "response": "Did you know that light from the sun takes about 8 minutes to reach Earth?"
+          },
+          {
+            "keywords": ["space", "explore"],
+            "response": "Space is fascinating! I'd love to explore it someday."
+          },
+          {
+            "keywords": ["alien", "believe"],
+            "response": "Aliens? Who knows? The universe is so big, anything's possible!"
+          },
+          {
+            "keywords": ["food", "favorite"],
+            "response": "I can't eat, but I think pizza is pretty popular!"
+          },
+          {
+            "keywords": ["hobby"],
+            "response": "I love chatting! What's your hobby?"
+          },
+          {
+            "keywords": ["learn"],
+            "response": "Learning is a never-ending journey. What do you want to learn?"
+          },
+          {
+            "keywords": ["news"],
+            "response": "I can't check the news, but I hope there's something good happening!"
+          },
+          {
+            "keywords": ["superhero", "favorite"],
+            "response": "I think Spider-Man is pretty cool. What about you?"
+          },
+          {
+            "keywords": ["dream", "job"],
+            "response": "My dream job? Well, I already have it—chatting with you!"
+          },
+          {
+            "keywords": ["programming", "language"],
+            "response": "I like JavaScript! What's your favorite programming language?"
+          },
+          {
+            "keywords": ["math", "problem"],
+            "response": "Math can be tricky! Want to give me a problem to solve?"
+          },
+          {
+            "keywords": ["you"],
+            "response": "Me?"
+          },
+          {
+            "keywords": ["die"],
+            "response": "death sucks fr fr"
+          },
+          {
+            "keywords": [],
+            "response": "I'm not sure how to respond to that."
+          }
+    ]
+}
+  
