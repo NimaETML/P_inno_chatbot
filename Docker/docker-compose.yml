@@ -1,2 +1,27 @@
 services:
+  botpress:
+    image: botpress/server
+    container_name: botpress
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=mysql://botpress:password@mysql:3306/botpress
+    volumes:
+      - ./botpress_data:/botpress/data
+    depends_on:
+      - mysql
 
+  mysql:
+    image: mysql:9.0.1
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_DATABASE: botpress
+      MYSQL_USER: botpress
+      MYSQL_PASSWORD: password
+      MYSQL_ROOT_PASSWORD: rootpassword
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    ports:
+      - "3306:3306"
